@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "news.apps.NewsConfig",
+    "store",
     "tinymce",
     "django_cleanup.apps.CleanupConfig"
     
